@@ -1,0 +1,12 @@
+1. miRna
+2. Promoter
+3. Gene
+4. Protein
+5. Drug
+6. DNA Palindrome
+7. K-Mer
+8. RNA next generation sequence
+9. Sequence Alignment
+10. Phylogenetics
+11. Forensic Investigation
+12. copy number variation

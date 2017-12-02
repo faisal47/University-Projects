@@ -1,0 +1,8 @@
+Paper:
+Detection of common copy number variation with application to
+population clustering from next generation sequencing data
+[Conf Proc IEEE Eng Med Biol Soc. 2012 ; 2012: 1246–1249. doi:10.1109/EMBC.2012.6346163]
+
+In this paper we work for the CNV detection part only. First datas from six samples have been applied on Depths of Coverage (DOC) method to detect
+their CNVs'. Then this outputs are applied later to detect their common CNVs'. This method also gives the genomic coordinates of those detected CNVs'.
+First the DOC profile is made from BAM files. And the algorithm works on the DOC profiles.

@@ -1,0 +1,13 @@
+CGH: Comparative Genomic Hybridization
+
+DOC: Depth of coverage
+
+G-C Content:
+In molecular biology and genetics, GC-content (or guanine-cytosine content) is the percentage of nitrogenous bases on 
+a DNA molecule that are either guanine or cytosine (from a possibility of four different ones, also including adenine and thymine).
+
+Loci/ Locus : A locus (plural loci), in genetics, is the specific location or position of a gene, DNA sequence, on a chromosome.
+
+NGS Data: Next Generation Sequencing Data
+
+NMF : Non-negative Matrix Factorization
